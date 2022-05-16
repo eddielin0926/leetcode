@@ -1,9 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-/* Sol: Sum all the symbol up, when encounter "ab" pattern, minus 2*a */
-/* Time complexity: O(n) */
-/* Space complexity: O(1) */
+/* Sol: Decrease the match prefix */
+/* Time complexity: O(n^2) */
 
 class Solution {
 public:
