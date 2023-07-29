@@ -2,4 +2,4 @@
 
 Never too late to start leetcoding. 😒
 
-###### Connect by [LeetHub](https://github.com/QasimWani/LeetHub)
+###### Connected by [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
