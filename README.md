@@ -7,7 +7,7 @@
 
 Never too late to start leetcoding. 😒
 
-###### Connected by [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
+###### Connected by [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
