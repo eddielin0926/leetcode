@@ -28,3 +28,7 @@
 	<li>All the integers in <code>nums</code> are <strong>unique</strong>.</li>
 	<li><code>nums</code> is sorted in ascending order.</li>
 </ul>
+
+<h2>Note</h2>
+
+每次找中間來跟目標比較，範圍用左右index比較簡單。
