@@ -20,6 +20,7 @@ Never too late to start leetcoding. 😒
 | [0074-search-a-2d-matrix](https://github.com/eddielin0926/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eddielin0926/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/eddielin0926/leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/eddielin0926/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/eddielin0926/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ Never too late to start leetcoding. 😒
 | [0074-search-a-2d-matrix](https://github.com/eddielin0926/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eddielin0926/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/eddielin0926/leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/eddielin0926/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
