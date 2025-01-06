@@ -17,6 +17,7 @@ Never too late to start leetcoding. 😒
 | [0011-container-with-most-water](https://github.com/eddielin0926/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/eddielin0926/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/eddielin0926/leetcode/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/eddielin0926/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eddielin0926/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/eddielin0926/leetcode/tree/master/0792-binary-search) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/eddielin0926/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -30,6 +31,7 @@ Never too late to start leetcoding. 😒
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/eddielin0926/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eddielin0926/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/eddielin0926/leetcode/tree/master/0792-binary-search) |
 ## Sorting
@@ -60,4 +62,8 @@ Never too late to start leetcoding. 😒
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/eddielin0926/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/eddielin0926/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
