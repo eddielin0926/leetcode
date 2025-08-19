@@ -120,9 +120,11 @@ Never too late to start leetcoding. 😒
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/eddielin0926/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/eddielin0926/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/eddielin0926/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/eddielin0926/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
