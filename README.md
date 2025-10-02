@@ -18,6 +18,7 @@ Never too late to start leetcoding. 😒
 | [0015-3sum](https://github.com/eddielin0926/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/eddielin0926/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/eddielin0926/leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/eddielin0926/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/eddielin0926/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eddielin0926/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eddielin0926/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -51,6 +52,7 @@ Never too late to start leetcoding. 😒
 |  |
 | ------- |
 | [0015-3sum](https://github.com/eddielin0926/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/eddielin0926/leetcode/tree/master/0049-group-anagrams) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Never too late to start leetcoding. 😒
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eddielin0926/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/eddielin0926/leetcode/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/eddielin0926/leetcode/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/eddielin0926/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1524-string-matching-in-an-array](https://github.com/eddielin0926/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -96,6 +99,7 @@ Never too late to start leetcoding. 😒
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eddielin0926/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/eddielin0926/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/eddielin0926/leetcode/tree/master/0141-linked-list-cycle) |
 | [0952-word-subsets](https://github.com/eddielin0926/leetcode/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/eddielin0926/leetcode/tree/master/1023-time-based-key-value-store) |
