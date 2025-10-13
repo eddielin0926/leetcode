@@ -4,15 +4,16 @@ public:
         int n = s.size();
         int result = 0;
         int left = -1;
-        unordered_map<int, int> table;
-        for (int i = 0; i < n; ++i) {
-            char ch = s[i];
-            if (table.find(ch) != table.end() && table[ch] > left) {
-                left = table[ch];
+        unordered_map<char, int> table;
+
+        for (int i = 0; i < n; i++) {
+            if (table.find(s[i]) != table.end() && table[s[i]] > left) {
+                left = table[s[i]];
             }
-            table[ch] = i;
             result = max(result, i - left);
+            table[s[i]] = i;
         }
+
         return result;
     }
 };
