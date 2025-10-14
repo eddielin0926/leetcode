@@ -109,11 +109,13 @@ Never too late to start leetcoding. 😒
 | [0003-longest-substring-without-repeating-characters](https://github.com/eddielin0926/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/eddielin0926/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/eddielin0926/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/eddielin0926/leetcode/tree/master/0146-lru-cache) |
 | [0952-word-subsets](https://github.com/eddielin0926/leetcode/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/eddielin0926/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/eddielin0926/leetcode/tree/master/0146-lru-cache) |
 | [1023-time-based-key-value-store](https://github.com/eddielin0926/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Trie
 |  |
@@ -136,6 +138,7 @@ Never too late to start leetcoding. 😒
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/eddielin0926/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/eddielin0926/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/eddielin0926/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/eddielin0926/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -154,4 +157,8 @@ Never too late to start leetcoding. 😒
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/eddielin0926/leetcode/tree/master/0039-combination-sum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/eddielin0926/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
