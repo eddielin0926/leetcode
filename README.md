@@ -43,6 +43,7 @@ Never too late to start leetcoding. 😒
 | [0031-next-permutation](https://github.com/eddielin0926/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/eddielin0926/leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/eddielin0926/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/eddielin0926/leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eddielin0926/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ Never too late to start leetcoding. 😒
 | [0015-3sum](https://github.com/eddielin0926/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/eddielin0926/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/eddielin0926/leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/eddielin0926/leetcode/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Never too late to start leetcoding. 😒
 | [0021-merge-two-sorted-lists](https://github.com/eddielin0926/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/eddielin0926/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/eddielin0926/leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/eddielin0926/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/eddielin0926/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -167,4 +170,12 @@ Never too late to start leetcoding. 😒
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/eddielin0926/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/eddielin0926/leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/eddielin0926/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
