@@ -28,6 +28,7 @@ Never too late to start leetcoding. 😒
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eddielin0926/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eddielin0926/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/eddielin0926/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/eddielin0926/leetcode/tree/master/0200-number-of-islands) |
 | [0792-binary-search](https://github.com/eddielin0926/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/eddielin0926/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/eddielin0926/leetcode/tree/master/0952-word-subsets) |
@@ -102,6 +103,7 @@ Never too late to start leetcoding. 😒
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/eddielin0926/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/eddielin0926/leetcode/tree/master/0200-number-of-islands) |
 ## String Matching
 |  |
 | ------- |
@@ -172,6 +174,7 @@ Never too late to start leetcoding. 😒
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/eddielin0926/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/eddielin0926/leetcode/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,4 +183,12 @@ Never too late to start leetcoding. 😒
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/eddielin0926/leetcode/tree/master/0148-sort-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/eddielin0926/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/eddielin0926/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
