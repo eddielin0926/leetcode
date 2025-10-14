@@ -24,6 +24,7 @@ Never too late to start leetcoding. 😒
 | [0056-merge-intervals](https://github.com/eddielin0926/leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/eddielin0926/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eddielin0926/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/eddielin0926/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eddielin0926/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eddielin0926/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/eddielin0926/leetcode/tree/master/0792-binary-search) |
@@ -108,6 +109,7 @@ Never too late to start leetcoding. 😒
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eddielin0926/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/eddielin0926/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/eddielin0926/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/eddielin0926/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/eddielin0926/leetcode/tree/master/0146-lru-cache) |
 | [0952-word-subsets](https://github.com/eddielin0926/leetcode/tree/master/0952-word-subsets) |
@@ -161,4 +163,8 @@ Never too late to start leetcoding. 😒
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/eddielin0926/leetcode/tree/master/0146-lru-cache) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/eddielin0926/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
