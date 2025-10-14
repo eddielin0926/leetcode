@@ -27,6 +27,7 @@ Never too late to start leetcoding. 😒
 | [0128-longest-consecutive-sequence](https://github.com/eddielin0926/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eddielin0926/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eddielin0926/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/eddielin0926/leetcode/tree/master/0198-house-robber) |
 | [0792-binary-search](https://github.com/eddielin0926/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/eddielin0926/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/eddielin0926/leetcode/tree/master/0952-word-subsets) |
@@ -71,6 +72,7 @@ Never too late to start leetcoding. 😒
 | ------- |
 | [0042-trapping-rain-water](https://github.com/eddielin0926/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eddielin0926/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/eddielin0926/leetcode/tree/master/0198-house-robber) |
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/eddielin0926/leetcode/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
 ## Stack
 |  |
