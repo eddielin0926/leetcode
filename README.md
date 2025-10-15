@@ -37,6 +37,7 @@ Never too late to start leetcoding. 😒
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/eddielin0926/leetcode/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/eddielin0926/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/eddielin0926/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/eddielin0926/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Two Pointers
 |  |
 | ------- |
